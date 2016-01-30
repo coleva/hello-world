@@ -1,2 +1,5 @@
 # hello-world
-Aspiring Java, Angular, VB
+========================
+
+Aspiring Full Stack
+  Java, Angular, VB, Python, SQL;
